@@ -1,2 +1,2 @@
-# LGMVIP-DataScience TASK-1
+# LGMVIP-DataScience
 ᴀ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ ɪɴᴛᴇʀɴ ɪɴ ᴠɪʀᴛᴜᴀʟ ɪɴᴛᴇʀɴꜱʜɪᴩ ᴩʀᴏɢʀᴀᴍ (ᴠɪᴩ) ᴀᴛ ʟᴇᴛꜱɢʀᴏᴡᴍᴏʀᴇ
